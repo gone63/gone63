@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gone63
-- 👀 I’m interested in React
+- 👋 Hi, I’m @gone63, Frontend Dev
+- 👀 I’m interested in learning new things in JavaScript
 - 🌱 I’m currently learning Rescript and functional programming
 - 📫 How to reach me jeevan.c31@gmail.com
 
